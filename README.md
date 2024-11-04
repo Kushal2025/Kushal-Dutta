@@ -1,7 +1,7 @@
 # Kushal-Dutta
 <h1 align="center">Hi 👋, I'm Kushal Dutta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushal2025&label=Profile%20views&color=0e75b6&style=flat" alt="kushal2025" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushal2025" alt="kushal2025" /></a> </p>
@@ -20,6 +20,9 @@ img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/kushal-dutta-640122280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kushal-dutta-640122280" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/kushal_432/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kushal_432/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/kushaldutta467/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/kushaldutta467/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,3 +33,4 @@ img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushal2025&show_icons=true&locale=en" alt="kushal2025" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushal2025&" alt="kushal2025" /></p>
+
